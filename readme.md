@@ -80,7 +80,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=daniellay33&theme=radical&show_icons=true&hide_border=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellay33&theme=radical&hide_border=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=daniellay33&theme=radical&hide_border=true" height="165" />
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellay33&layout=compact&theme=radical&hide_border=true" />
@@ -90,4 +90,12 @@
 <h3 align="left">Contribution Snake:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/daniellay33/daniellay33/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOxfjsW7Etl6uZK6g/giphy.gif" width="60">
+  <br>
+  <em><b>I love connecting with people in tech</b> 💫 — feel free to reach out, I'd love to say hi! 😊</em>
 </p>
