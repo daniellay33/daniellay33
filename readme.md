@@ -55,37 +55,21 @@
 - Data & Infra
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,redis,mysql" />
+    <img src="https://skillicons.dev/icons?i=docker,redis,mysql" height="48" />
   </a>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" height="28"/>
 </p>
 
 - Tools & Systems
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,windows" height="48" />
   </a>
-  <img src="https://img.shields.io/badge/Zabbix-CB0000?style=for-the-badge&logo=zabbix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zabbix-CB0000?style=flat-square&logo=zabbix&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" height="28"/>
 </p>
 
 <br/>
-
-<h3 align="left">Trophies:</h3>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=daniellay33&theme=radical&no-frame=true&row=1&column=6">
-</div>
-<br>
-
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=daniellay33&theme=radical&show_icons=true&hide_border=true" height="165" />
-<img src="https://streak-stats.demolab.com/?user=daniellay33&theme=radical&hide_border=true" height="165" />
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellay33&layout=compact&theme=radical&hide_border=true" />
-</div>
-<br>
 
 <h3 align="left">Contribution Snake:</h3>
 <p align="center">
