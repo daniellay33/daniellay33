@@ -9,26 +9,36 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Technical+Support+Engineer+%40+CTV+NOC;CS+Graduate+%40+Holon+Institute+of+Technology;Building+towards+Software+Engineering;Python+%7C+Docker+%7C+Kafka+%7C+Redis+%7C+JavaScript" alt="Typing SVG" />
 </p>
 
-- 🔭 I'm currently working as a **Technical Support Engineer** in a NOC (Network Operations Center) environment at **CTV**
-- 🎓 I hold a **Computer Science degree from Holon Institute of Technology (HIT)**
-- 🌱 I'm currently strengthening my software engineering skills with **Python, Docker, Kafka, Redis, and JavaScript/web development**
-- 🛠️ I run a small **computer & network services** side business
-- 💼 Previous experience includes data collection/QA at **OrCam** and network operations in the **IDF Air Force**
-- 💬 Ask me about networking, systems support, or my transition into software engineering
+- 🎓 **B.Sc. Computer Science**, Holon Institute of Technology — expected October 2026
+- 💻 I enjoy building systems end to end and owning them from design through deployment
+- 🔍 Three years of hands-on production experience taught me to dig into logs and system data until I understand what's really happening — I bring that same approach to my own projects, like an async, containerized log-enrichment pipeline built with Python, Docker and Kafka
+- 🌱 Ambitious and a fast learner, looking to keep building at scale alongside experienced engineers
 - 🌍 Languages: Hebrew (native), Russian (native), English (fluent)
 
-<h3 align="left">🖥️ Tech Stack:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 </p>
+
+<h3 align="left">🖥️ Tech Stack:</h3>
+
+**Languages & Backend**
+
+[![](https://skillicons.dev/icons?i=python,c,js,cs)](https://skillicons.dev)
+
+**Frontend**
+
+[![](https://skillicons.dev/icons?i=html,css,react,vite,tailwind)](https://skillicons.dev)
+
+**Data & Infra**
+
+[![](https://skillicons.dev/icons?i=docker,redis,mysql)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+**Tools & Systems**
+
+[![](https://skillicons.dev/icons?i=git,github,linux,windows)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Zabbix-CB0000?style=for-the-badge&logo=zabbix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
