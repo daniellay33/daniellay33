@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20👋,%20I'm%20Daniela&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Building%20systems%20end-to-end&descAlignY=55&descSize=18" width="100%"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Daniela Yashenko</h1>
 <h3 align="center">Junior Software Engineer | Network & Systems Background</h3>
 
@@ -9,11 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Technical+Support+Engineer+%40+CTV+NOC;CS+Graduate+%40+Holon+Institute+of+Technology;Building+towards+Software+Engineering;Python+%7C+Docker+%7C+Kafka+%7C+Redis+%7C+JavaScript" alt="Typing SVG" />
 </p>
 
-- 🎓 **B.Sc. Computer Science**, Holon Institute of Technology — expected October 2026
-- 💻 I enjoy building systems end to end and owning them from design through deployment
-- 🔍 Three years of hands-on production experience taught me to dig into logs and system data until I understand what's really happening — I bring that same approach to my own projects, like an async, containerized log-enrichment pipeline built with Python, Docker and Kafka
-- 🌱 Ambitious and a fast learner, looking to keep building at scale alongside experienced engineers
-- 🌍 Languages: Hebrew (native), Russian (native), English (fluent)
+<p align="center">
+I'm a Computer Science graduate (B.Sc., October 2026) with a real passion for software engineering. I enjoy building systems end to end and owning them from design through deployment. Over three years of hands-on technical work in a live production environment taught me to dig into logs and system data until I understand what is actually happening, and I bring the same approach to my own projects, such as an asynchronous, containerized data pipeline built with Python, Docker and Kafka. I'm ambitious and I learn fast, and I'm looking for a software engineering role where I can keep building at scale and grow alongside experienced engineers.
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
@@ -73,3 +67,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=daniellay33&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
 </p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
