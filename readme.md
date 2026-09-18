@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=200&section=header&text=DANIELA%20YASHENKO&fontSize=38&fontColor=d4af37&fontAlignY=40&desc=SOFTWARE%20ENGINEER&descAlignY=65&descSize=18&descColor=d4af37&letterSpacing=6" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:d946ef,100:ec4899&height=220&section=header&text=Daniela%20Yashenko&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20B.Sc.%20Computer%20Science%2C%202026&descAlignY=55&descSize=16" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniela Yashenko</h1>
@@ -31,8 +31,8 @@
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <a href="https://linkedin.com/in/danielaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielaya" width="40" /></a>
-<a href="mailto:danielayashenko1@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="danielayashenko1" width="40" /></a>
-<a href="https://github.com/daniellay33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="daniellay33" width="40" /></a>
+<a href="mailto:danielayashenko1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" height="28" /></a>
+<a href="https://github.com/daniellay33" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="github" height="28" /></a>
 </div>
 <br>
 
