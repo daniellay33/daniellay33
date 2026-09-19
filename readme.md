@@ -76,11 +76,5 @@
 <br>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN0N2drNTZ6cGZreGhuMzUwdW8wbTV3c29oazZrNXB4MTNnNndxaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9WfkIiuzx3dWcTVfRy/giphy.gif" width="140">
-</p>
-
-<br>
-
-<p align="center">
   <em><b>I love connecting with people in tech</b> 💫 feel free to reach out, I'd love to say hi! 😊</em>
 </p>
