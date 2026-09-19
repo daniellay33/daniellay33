@@ -25,14 +25,14 @@
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50"/>
 </div>
 
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt0YWloa2pic3BvZDlnbWwzengzb253MGpqbmh4a2lqY3g5bG1hMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-<a href="https://linkedin.com/in/danielaya" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" height="28" /></a>
-<a href="mailto:danielayashenko1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" height="28" /></a>
-<a href="https://github.com/daniellay33" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="github" height="28" /></a>
+<a href="https://linkedin.com/in/danielaya" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+<a href="mailto:danielayashenko1@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
+<a href="https://github.com/daniellay33" target="blank"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
 </div>
 <br>
 
@@ -69,7 +69,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdpMXlrMDd0OThldWViNnBqMGo1eG1jejEzNTYxNjluNXdxM3dpciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8EvcxIrfrz3TG/200.gif" width="140">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="140">
 </p>
 
 <br>
