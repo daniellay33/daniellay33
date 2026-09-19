@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniela Yashenko</h1>
-<h3 align="center">Software Engineer | B.Sc. Computer Science </h3>
+<h3 align="center">Software Engineer | B.Sc. Computer Science, 2026</h3>
 <p align="center">I'm a Computer Science graduate (B.Sc., October 2026) with a real passion for software engineering. I enjoy building systems end to end and owning them from design through deployment. Over three years of hands-on technical work in a live production environment taught me to dig into logs and system data until I understand what is actually happening, and I bring the same approach to my own projects, such as an asynchronous, containerized data pipeline built with Python, Docker and Kafka. I'm ambitious and I learn fast, and I'm looking for a software engineering role where I can keep building at scale and grow alongside experienced engineers.</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=daniellay33&label=Profile%20views&color=0e75b6&style=flat" alt="daniela yashenko" />
@@ -70,11 +70,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="140">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN0N2drNTZ6cGZreGhuMzUwdW8wbTV3c29oazZrNXB4MTNnNndxaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9WfkIiuzx3dWcTVfRy/giphy.gif" width="140">
 </p>
 
 <br>
 
 <p align="center">
-  <em><b>I love connecting with people </b> 💫 feel free to reach out, I'd love to say hi! 😊</em>
+  <em><b>I love connecting with people in tech</b> 💫 feel free to reach out, I'd love to say hi! 😊</em>
 </p>
