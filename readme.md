@@ -28,12 +28,6 @@
 <br>
 <br>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndra3owMDgyejdpb3pvejZ4Z2treTM2ZXRyczliNW9nZzFrcG1vOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6RVhKRZ8CsfUS4ZlEX/giphy.gif" width="300">
-</p>
-
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <a href="https://linkedin.com/in/danielaya" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
@@ -74,6 +68,12 @@
 </p>
 
 <br/>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndra3owMDgyejdpb3pvejZ4Z2treTM2ZXRyczliNW9nZzFrcG1vOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6RVhKRZ8CsfUS4ZlEX/giphy.gif" width="300">
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN0N2drNTZ6cGZreGhuMzUwdW8wbTV3c29oazZrNXB4MTNnNndxaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9WfkIiuzx3dWcTVfRy/giphy.gif" width="140">
