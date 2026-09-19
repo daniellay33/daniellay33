@@ -9,8 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=daniellay33&label=Profile%20views&color=0e75b6&style=flat" alt="daniela yashenko" />
 </p>
 
-<img align="right" width="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndra3owMDgyejdpb3pvejZ4Z2treTM2ZXRyczliNW9nZzFrcG1vOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6RVhKRZ8CsfUS4ZlEX/giphy.gif">
-
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50"/>
@@ -28,6 +26,12 @@
 </div>
 
 <br>
+<br>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndra3owMDgyejdpb3pvejZ4Z2treTM2ZXRyczliNW9nZzFrcG1vOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6RVhKRZ8CsfUS4ZlEX/giphy.gif" width="300">
+</p>
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
