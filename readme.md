@@ -25,12 +25,12 @@
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50"/>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt0YWloa2pic3BvZDlnbWwzengzb253MGpqbmh4a2lqY3g5bG1hMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.gif">
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-<a href="https://linkedin.com/in/danielaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielaya" width="40" /></a>
+<a href="https://linkedin.com/in/danielaya" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" height="28" /></a>
 <a href="mailto:danielayashenko1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" height="28" /></a>
 <a href="https://github.com/daniellay33" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="github" height="28" /></a>
 </div>
@@ -57,7 +57,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,redis,mysql" height="48" />
   </a>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" height="28"/>
 </p>
 
 - Tools & Systems
@@ -65,21 +64,16 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,linux,windows" height="48" />
   </a>
-  <img src="https://img.shields.io/badge/Zabbix-CB0000?style=flat-square&logo=zabbix&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" height="28"/>
 </p>
 
 <br/>
 
-<h3 align="left">Contribution Snake:</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/daniellay33/daniellay33/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdpMXlrMDd0OThldWViNnBqMGo1eG1jejEzNTYxNjluNXdxM3dpciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8EvcxIrfrz3TG/200.gif" width="140">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxfjsW7Etl6uZK6g/giphy.gif" width="60">
-  <br>
-  <em><b>I love connecting with people in tech</b> 💫 — feel free to reach out, I'd love to say hi! 😊</em>
+  <em><b>I love connecting with people in tech</b> 💫 feel free to reach out, I'd love to say hi! 😊</em>
 </p>
