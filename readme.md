@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniela Yashenko</h1>
-<h3 align="center">Software Engineer | B.Sc. Computer Science, 2026</h3>
+<h3 align="center">Software Engineer | B.Sc. Computer Science </h3>
 <p align="center">I'm a Computer Science graduate (B.Sc., October 2026) with a real passion for software engineering. I enjoy building systems end to end and owning them from design through deployment. Over three years of hands-on technical work in a live production environment taught me to dig into logs and system data until I understand what is actually happening, and I bring the same approach to my own projects, such as an asynchronous, containerized data pipeline built with Python, Docker and Kafka. I'm ambitious and I learn fast, and I'm looking for a software engineering role where I can keep building at scale and grow alongside experienced engineers.</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=daniellay33&label=Profile%20views&color=0e75b6&style=flat" alt="daniela yashenko" />
@@ -25,14 +25,15 @@
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50"/>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
-<br><br>
+<br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <a href="https://linkedin.com/in/danielaya" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
 <a href="mailto:danielayashenko1@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
 <a href="https://github.com/daniellay33" target="blank"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
+<a href="https://www.instagram.com/danielayashenko/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram" /></a>
 </div>
 <br>
 
@@ -75,5 +76,5 @@
 <br>
 
 <p align="center">
-  <em><b>I love connecting with people in tech</b> 💫 feel free to reach out, I'd love to say hi! 😊</em>
+  <em><b>I love connecting with people </b> 💫 feel free to reach out, I'd love to say hi! 😊</em>
 </p>
